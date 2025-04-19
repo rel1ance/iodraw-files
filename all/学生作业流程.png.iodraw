@@ -25,7 +25,7 @@
         <mxCell id="4qgfN0VtfTHM8IYAkpne-8" value="&lt;div&gt;教师上传作业要求&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="447" y="250" width="86" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4qgfN0VtfTHM8IYAkpne-10" value="选课成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="4qgfN0VtfTHM8IYAkpne-10" value="作业布置成功" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4qgfN0VtfTHM8IYAkpne-12" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
