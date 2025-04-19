@@ -29,7 +29,7 @@
           <mxGeometry x="440" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4qgfN0VtfTHM8IYAkpne-12" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="442.5" y="720" width="100" height="50" as="geometry" />
+          <mxGeometry x="433" y="800" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4qgfN0VtfTHM8IYAkpne-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -72,8 +72,8 @@
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="4qgfN0VtfTHM8IYAkpne-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="690" as="sourcePoint" />
-            <mxPoint x="489.71" y="580" as="targetPoint" />
+            <mxPoint x="480.5" y="770" as="sourcePoint" />
+            <mxPoint x="480.21" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-8" value="上传作业文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="452.5" y="660" width="90" height="30" as="geometry" />
+          <mxGeometry x="590" y="585" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-9" value="是否修改作业" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="565" width="140" height="70" as="geometry" />
