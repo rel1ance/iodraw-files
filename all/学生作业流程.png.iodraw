@@ -97,6 +97,12 @@
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-9" value="是否修改作业" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="565" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="-BwtoaUyb4_eIaPG_dX2-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="550" as="sourcePoint" />
+            <mxPoint x="430" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
