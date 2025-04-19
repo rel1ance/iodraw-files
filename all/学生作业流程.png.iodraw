@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-8" value="上传作业文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="585" width="90" height="30" as="geometry" />
+          <mxGeometry x="452.5" y="660" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-9" value="是否修改作业" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="565" width="140" height="70" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="767" y="500" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-13" value="删除作业提交记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="400" width="110" height="30" as="geometry" />
+          <mxGeometry x="735" y="430" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
