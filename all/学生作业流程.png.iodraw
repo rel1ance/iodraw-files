@@ -142,8 +142,8 @@
             <mxPoint x="938" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-BwtoaUyb4_eIaPG_dX2-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="877.5" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="-BwtoaUyb4_eIaPG_dX2-20" value="教师评语" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="887.5" y="680" width="102.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
