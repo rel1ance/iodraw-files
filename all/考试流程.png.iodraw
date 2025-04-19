@@ -142,14 +142,11 @@
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-22" value="学生查看评分评语" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="677.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="-BwtoaUyb4_eIaPG_dX2-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4qgfN0VtfTHM8IYAkpne-5">
+        <mxCell id="-BwtoaUyb4_eIaPG_dX2-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="490" as="sourcePoint" />
-            <mxPoint x="380" y="350" as="targetPoint" />
+            <mxPoint x="630" y="440" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="-BwtoaUyb4_eIaPG_dX2-25" value="是否修改作业" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="875" y="505" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
