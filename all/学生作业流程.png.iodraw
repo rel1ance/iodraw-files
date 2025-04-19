@@ -145,6 +145,12 @@
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-20" value="教师评语" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="887.5" y="680" width="102.5" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="-BwtoaUyb4_eIaPG_dX2-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-BwtoaUyb4_eIaPG_dX2-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="600" as="sourcePoint" />
+            <mxPoint x="710" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
