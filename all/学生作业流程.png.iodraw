@@ -85,6 +85,12 @@
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-6" value="提交作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="580" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-BwtoaUyb4_eIaPG_dX2-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="450" as="sourcePoint" />
+            <mxPoint x="190" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
