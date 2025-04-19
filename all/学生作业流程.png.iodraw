@@ -133,7 +133,7 @@
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-17" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="565" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-BwtoaUyb4_eIaPG_dX2-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-BwtoaUyb4_eIaPG_dX2-18" value="教师批阅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="885" y="610" width="105" height="40" as="geometry" />
         </mxCell>
       </root>
