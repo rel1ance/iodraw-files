@@ -148,8 +148,8 @@
             <mxPoint x="380" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-BwtoaUyb4_eIaPG_dX2-24" value="查询考试题目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="350" width="100" height="35" as="geometry" />
+        <mxCell id="-BwtoaUyb4_eIaPG_dX2-25" value="是否修改作业" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="505" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
