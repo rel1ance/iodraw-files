@@ -105,12 +105,12 @@
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="565" as="sourcePoint" />
-            <mxPoint x="790" y="460" as="targetPoint" />
+            <mxPoint x="934.5" y="525" as="sourcePoint" />
+            <mxPoint x="934.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-12" value="Y" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="767" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="920" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-13" value="删除作业提交记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="390" width="110" height="30" as="geometry" />
