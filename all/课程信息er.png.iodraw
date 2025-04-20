@@ -76,8 +76,14 @@
             <mxPoint x="640" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rz3NLilK2ahsvWGTtGwU-26" value="学生学号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="285" width="80" height="30" as="geometry" />
+        <mxCell id="Rz3NLilK2ahsvWGTtGwU-26" value="学生姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rz3NLilK2ahsvWGTtGwU-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
