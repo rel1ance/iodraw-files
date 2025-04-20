@@ -154,6 +154,12 @@
         <mxCell id="-BwtoaUyb4_eIaPG_dX2-22" value="学生查看评分评语" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="677.5" width="80" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="YGBfbsgvlXhQt2oELaym-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4qgfN0VtfTHM8IYAkpne-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="570" as="sourcePoint" />
+            <mxPoint x="760" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
