@@ -13,10 +13,10 @@
         <mxCell id="Rz3NLilK2ahsvWGTtGwU-3" value="年级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="250" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rz3NLilK2ahsvWGTtGwU-4" value="课程内容" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rz3NLilK2ahsvWGTtGwU-4" value="学期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="240" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rz3NLilK2ahsvWGTtGwU-5" value="最近查看时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rz3NLilK2ahsvWGTtGwU-5" value="班级" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="250" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rz3NLilK2ahsvWGTtGwU-6" value="名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
