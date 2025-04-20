@@ -138,6 +138,9 @@
         <mxCell id="-bHIWtrVKTdf8WdJxqUD-4" value="错题计入错题本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="620" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-bHIWtrVKTdf8WdJxqUD-5" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="80" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
