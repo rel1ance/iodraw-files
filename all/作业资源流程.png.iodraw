@@ -88,6 +88,12 @@
         <mxCell id="PEpfzoDbJ_9OR5cLQzcC-8" value="学生发布评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="570" width="95" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="PEpfzoDbJ_9OR5cLQzcC-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEpfzoDbJ_9OR5cLQzcC-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="600" as="sourcePoint" />
+            <mxPoint x="550" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
