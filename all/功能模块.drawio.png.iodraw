@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-11" value="首页" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-460" y="280" width="23" height="80" as="geometry" />
+          <mxGeometry x="-460" y="280" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-12" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-422" y="280" width="17" height="80" as="geometry" />
