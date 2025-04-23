@@ -515,7 +515,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-174" value="查看学习资源" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="553" y="460" width="20" height="110" as="geometry" />
+          <mxGeometry x="540" y="460" width="33" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-175" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -531,8 +531,8 @@
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-179" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="593" y="410" as="sourcePoint" />
-            <mxPoint x="593" y="460" as="targetPoint" />
+            <mxPoint x="608.16" y="410" as="sourcePoint" />
+            <mxPoint x="608.16" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-180" value="发表评论" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
