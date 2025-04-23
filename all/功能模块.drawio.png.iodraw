@@ -314,39 +314,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-132" value="课程信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="233" y="280" width="20" height="80" as="geometry" />
+          <mxGeometry x="193" y="280" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-133" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="244" y="230" as="sourcePoint" />
-            <mxPoint x="244" y="280" as="targetPoint" />
+            <mxPoint x="204" y="230" as="sourcePoint" />
+            <mxPoint x="204" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-134" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="213" y="380" as="sourcePoint" />
-            <mxPoint x="213" y="430" as="targetPoint" />
+            <mxPoint x="173" y="380" as="sourcePoint" />
+            <mxPoint x="173" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-135" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="213" y="380" as="sourcePoint" />
-            <mxPoint x="270" y="380" as="targetPoint" />
+            <mxPoint x="173" y="380" as="sourcePoint" />
+            <mxPoint x="230" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-136" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="243" y="360" as="sourcePoint" />
-            <mxPoint x="243" y="380" as="targetPoint" />
+            <mxPoint x="203" y="360" as="sourcePoint" />
+            <mxPoint x="203" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-137" value="查看课程信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="203" y="430" width="20" height="110" as="geometry" />
+          <mxGeometry x="163" y="430" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-138" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="269.52" y="380" as="sourcePoint" />
-            <mxPoint x="269.52" y="430" as="targetPoint" />
+            <mxPoint x="229.51999999999998" y="380" as="sourcePoint" />
+            <mxPoint x="229.51999999999998" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-140" value="考试管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
@@ -512,7 +512,7 @@
           <mxGeometry x="613" y="430" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-177" value="提交选课请求" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="260" y="430" width="20" height="110" as="geometry" />
+          <mxGeometry x="220" y="430" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-179" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
