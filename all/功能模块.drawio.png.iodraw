@@ -51,12 +51,12 @@
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-10" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-477" y="230" as="sourcePoint" />
-            <mxPoint x="-477" y="280" as="targetPoint" />
+            <mxPoint x="-447" y="230" as="sourcePoint" />
+            <mxPoint x="-447" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-11" value="首页" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-490" y="280" width="23" height="80" as="geometry" />
+          <mxGeometry x="-460" y="280" width="23" height="80" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-12" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-422" y="280" width="17" height="80" as="geometry" />
@@ -68,97 +68,97 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-30" value="课程信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="280" width="20" height="80" as="geometry" />
+          <mxGeometry x="-375" y="280" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-349" y="230" as="sourcePoint" />
-            <mxPoint x="-349" y="280" as="targetPoint" />
+            <mxPoint x="-364" y="230" as="sourcePoint" />
+            <mxPoint x="-364" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-33" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-380" y="380" as="sourcePoint" />
-            <mxPoint x="-380" y="430" as="targetPoint" />
+            <mxPoint x="-395" y="380" as="sourcePoint" />
+            <mxPoint x="-395" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-34" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-380" y="380" as="sourcePoint" />
-            <mxPoint x="-320" y="380" as="targetPoint" />
+            <mxPoint x="-395" y="380" as="sourcePoint" />
+            <mxPoint x="-335" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-35" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-350" y="360" as="sourcePoint" />
-            <mxPoint x="-350" y="380" as="targetPoint" />
+            <mxPoint x="-365" y="360" as="sourcePoint" />
+            <mxPoint x="-365" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-37" value="编辑课程信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-390" y="430" width="20" height="110" as="geometry" />
+          <mxGeometry x="-405" y="430" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-48" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-320" y="380" as="sourcePoint" />
-            <mxPoint x="-320" y="430" as="targetPoint" />
+            <mxPoint x="-335" y="380" as="sourcePoint" />
+            <mxPoint x="-335" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-49" value="课程添加与删除" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-330" y="430" width="20" height="110" as="geometry" />
+          <mxGeometry x="-345" y="430" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-59" value="试卷管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="270" width="20" height="80" as="geometry" />
+          <mxGeometry x="-265" y="270" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-60" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-239" y="230" as="sourcePoint" />
-            <mxPoint x="-239" y="270" as="targetPoint" />
+            <mxPoint x="-254" y="230" as="sourcePoint" />
+            <mxPoint x="-254" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-63" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-270" y="380" as="sourcePoint" />
-            <mxPoint x="-210" y="380" as="targetPoint" />
+            <mxPoint x="-285" y="380" as="sourcePoint" />
+            <mxPoint x="-225" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-64" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="INGs_Fkj6XZu93WT0Pxf-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-140" y="400" as="sourcePoint" />
-            <mxPoint x="-240" y="380" as="targetPoint" />
+            <mxPoint x="-155" y="400" as="sourcePoint" />
+            <mxPoint x="-255" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-65" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-240.42" y="380" as="sourcePoint" />
-            <mxPoint x="-240.42" y="430" as="targetPoint" />
+            <mxPoint x="-255.42" y="380" as="sourcePoint" />
+            <mxPoint x="-255.42" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-66" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-270" y="380" as="sourcePoint" />
-            <mxPoint x="-270" y="430" as="targetPoint" />
+            <mxPoint x="-285" y="380" as="sourcePoint" />
+            <mxPoint x="-285" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-68" value="考试基本信息" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="430" width="20" height="110" as="geometry" />
+          <mxGeometry x="-295" y="430" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-69" value="考试记录" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="430" width="20" height="110" as="geometry" />
+          <mxGeometry x="-265" y="430" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-73" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-210" y="380" as="sourcePoint" />
-            <mxPoint x="-210" y="430" as="targetPoint" />
+            <mxPoint x="-225" y="380" as="sourcePoint" />
+            <mxPoint x="-225" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-74" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-210" y="380" as="sourcePoint" />
-            <mxPoint x="-210" y="430" as="targetPoint" />
+            <mxPoint x="-225" y="380" as="sourcePoint" />
+            <mxPoint x="-225" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-75" value="学生考试错题" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="430" width="20" height="110" as="geometry" />
+          <mxGeometry x="-235" y="430" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-76" value="作业管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="-117" y="280" width="20" height="80" as="geometry" />
@@ -275,12 +275,12 @@
           <mxGeometry x="43" y="430" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-117" value="审核学生选课请求" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="430" width="20" height="130" as="geometry" />
+          <mxGeometry x="-375" y="430" width="20" height="130" as="geometry" />
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-118" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-349" y="380" as="sourcePoint" />
-            <mxPoint x="-349" y="430" as="targetPoint" />
+            <mxPoint x="-364" y="380" as="sourcePoint" />
+            <mxPoint x="-364" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="INGs_Fkj6XZu93WT0Pxf-120" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
