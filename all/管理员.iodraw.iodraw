@@ -130,11 +130,14 @@
         <mxCell id="rSrrPZbbcAsXoMXdxhox-30" value="审核课程信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="130" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rSrrPZbbcAsXoMXdxhox-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rSrrPZbbcAsXoMXdxhox-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rSrrPZbbcAsXoMXdxhox-12" target="rSrrPZbbcAsXoMXdxhox-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="240" as="sourcePoint" />
-            <mxPoint x="230" y="190" as="targetPoint" />
+            <mxPoint x="60" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rSrrPZbbcAsXoMXdxhox-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="140" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
