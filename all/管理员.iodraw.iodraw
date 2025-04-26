@@ -58,6 +58,12 @@
         <mxCell id="rSrrPZbbcAsXoMXdxhox-12" value="新增考试信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="110" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rSrrPZbbcAsXoMXdxhox-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="240" as="sourcePoint" />
+            <mxPoint x="310" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
