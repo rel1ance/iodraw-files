@@ -73,7 +73,7 @@
             <mxPoint x="550" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rSrrPZbbcAsXoMXdxhox-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rSrrPZbbcAsXoMXdxhox-16" value="发布课程作业" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="210" width="102.5" height="50" as="geometry" />
         </mxCell>
       </root>
