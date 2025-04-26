@@ -31,14 +31,14 @@
             <mxPoint x="380" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rSrrPZbbcAsXoMXdxhox-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rSrrPZbbcAsXoMXdxhox-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.091;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="rSrrPZbbcAsXoMXdxhox-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="384" y="170" as="sourcePoint" />
             <mxPoint x="460" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rSrrPZbbcAsXoMXdxhox-8" value="班级管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="80" width="110" height="50" as="geometry" />
+          <mxGeometry x="480" y="80" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rSrrPZbbcAsXoMXdxhox-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
