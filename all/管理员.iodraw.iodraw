@@ -94,10 +94,10 @@
         <mxCell id="rSrrPZbbcAsXoMXdxhox-20" value="回答学生提问" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="715" y="80" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rSrrPZbbcAsXoMXdxhox-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rSrrPZbbcAsXoMXdxhox-10">
+        <mxCell id="rSrrPZbbcAsXoMXdxhox-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="rSrrPZbbcAsXoMXdxhox-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="270" as="sourcePoint" />
-            <mxPoint x="650" y="220" as="targetPoint" />
+            <mxPoint x="700" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
