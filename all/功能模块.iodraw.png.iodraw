@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XGF3VbG_iKjk14B4BNBS-1" value="功能模块图" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="265" y="130" width="90" height="40" as="geometry" />
+          <mxGeometry x="258" y="130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,16 +134,16 @@
         <mxCell id="0wieGyqzAuZTQ68qBL3r-1" value="基于微信小程序的作业管理系统的设计与实现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="202" y="30" width="216" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0wieGyqzAuZTQ68qBL3r-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0wieGyqzAuZTQ68qBL3r-1" target="XGF3VbG_iKjk14B4BNBS-1" edge="1">
+        <mxCell id="0wieGyqzAuZTQ68qBL3r-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="XGF3VbG_iKjk14B4BNBS-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="305" y="87" as="sourcePoint" />
-            <mxPoint x="440" y="260" as="targetPoint" />
+            <mxPoint x="302.9999999999999" y="90" as="sourcePoint" />
+            <mxPoint x="433" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0wieGyqzAuZTQ68qBL3r-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="190" as="sourcePoint" />
-            <mxPoint x="610" y="190" as="targetPoint" />
+            <mxPoint x="510" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0wieGyqzAuZTQ68qBL3r-4" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
