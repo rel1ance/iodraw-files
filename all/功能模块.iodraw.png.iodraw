@@ -9,8 +9,8 @@
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="338" y="190" as="sourcePoint" />
-            <mxPoint x="338" y="170" as="targetPoint" />
+            <mxPoint x="358" y="190" as="sourcePoint" />
+            <mxPoint x="358" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-3" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -28,8 +28,8 @@
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="XGF3VbG_iKjk14B4BNBS-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="357.65999999999997" y="230" as="sourcePoint" />
-            <mxPoint x="338" y="190" as="targetPoint" />
+            <mxPoint x="377.65999999999997" y="230" as="sourcePoint" />
+            <mxPoint x="358" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="XGF3VbG_iKjk14B4BNBS-9" edge="1">
@@ -39,15 +39,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-8" value="老师" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="298" y="240" width="80" height="30" as="geometry" />
+          <mxGeometry x="318" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-9" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="240" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="XGF3VbG_iKjk14B4BNBS-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="338" y="300" as="sourcePoint" />
-            <mxPoint x="248" y="350" as="targetPoint" />
+            <mxPoint x="358" y="300" as="sourcePoint" />
+            <mxPoint x="268" y="350" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -58,23 +58,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XGF3VbG_iKjk14B4BNBS-12" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="20" y="330" width="20" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="XGF3VbG_iKjk14B4BNBS-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XGF3VbG_iKjk14B4BNBS-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="330" as="sourcePoint" />
-            <mxPoint x="30" y="300" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-14" value="学习课程资源" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="90" y="330" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="448" y="300" as="sourcePoint" />
-            <mxPoint x="238" y="300" as="targetPoint" />
+            <mxPoint x="468" y="300" as="sourcePoint" />
+            <mxPoint x="258" y="300" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -100,45 +90,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-23" value="课程资源管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="320" y="330" width="20" height="90" as="geometry" />
+          <mxGeometry x="340" y="330" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-25" value="作业管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="280" y="330" width="20" height="90" as="geometry" />
+          <mxGeometry x="300" y="330" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-27" value="课程成绩" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="360" y="330" width="20" height="90" as="geometry" />
+          <mxGeometry x="380" y="330" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="239.66000000000003" y="330" as="sourcePoint" />
-            <mxPoint x="239.66000000000003" y="300" as="targetPoint" />
+            <mxPoint x="259.66" y="330" as="sourcePoint" />
+            <mxPoint x="259.66" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="289.65999999999997" y="330" as="sourcePoint" />
-            <mxPoint x="289.65999999999997" y="300" as="targetPoint" />
+            <mxPoint x="309.65999999999997" y="330" as="sourcePoint" />
+            <mxPoint x="309.65999999999997" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XGF3VbG_iKjk14B4BNBS-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="360" as="sourcePoint" />
-            <mxPoint x="230" y="330" as="targetPoint" />
+            <mxPoint x="250" y="360" as="sourcePoint" />
+            <mxPoint x="250" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="300" as="sourcePoint" />
-            <mxPoint x="330" y="330" as="targetPoint" />
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="350" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-26" value="课程信息管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="230" y="330" width="20" height="90" as="geometry" />
+          <mxGeometry x="250" y="330" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="369.65999999999997" y="330" as="sourcePoint" />
-            <mxPoint x="369.65999999999997" y="300" as="targetPoint" />
+            <mxPoint x="389.65999999999997" y="330" as="sourcePoint" />
+            <mxPoint x="389.65999999999997" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0wieGyqzAuZTQ68qBL3r-1" value="基于微信小程序的作业管理系统的设计与实现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -219,21 +209,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0wieGyqzAuZTQ68qBL3r-26" value="考试安排" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="400" y="330" width="20" height="90" as="geometry" />
+          <mxGeometry x="420" y="330" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0wieGyqzAuZTQ68qBL3r-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0wieGyqzAuZTQ68qBL3r-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379.65999999999997" y="340" as="sourcePoint" />
-            <mxPoint x="410" y="300" as="targetPoint" />
+            <mxPoint x="399.65999999999997" y="340" as="sourcePoint" />
+            <mxPoint x="430" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0wieGyqzAuZTQ68qBL3r-28" value="试题管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="440" y="330" width="20" height="90" as="geometry" />
+          <mxGeometry x="460" y="330" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0wieGyqzAuZTQ68qBL3r-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="449.65999999999997" y="330" as="sourcePoint" />
-            <mxPoint x="449.65999999999997" y="300" as="targetPoint" />
+            <mxPoint x="469.65999999999997" y="330" as="sourcePoint" />
+            <mxPoint x="469.65999999999997" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0wieGyqzAuZTQ68qBL3r-30" value="选课管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
