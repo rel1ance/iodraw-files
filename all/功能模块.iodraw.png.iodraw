@@ -68,7 +68,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XGF3VbG_iKjk14B4BNBS-14" value="查看作业" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="XGF3VbG_iKjk14B4BNBS-14" value="学习课程资源" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="90" y="330" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XGF3VbG_iKjk14B4BNBS-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
