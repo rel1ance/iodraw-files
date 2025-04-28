@@ -245,7 +245,7 @@
             <mxPoint x="469.65999999999997" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0wieGyqzAuZTQ68qBL3r-30" value="课程成绩" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="0wieGyqzAuZTQ68qBL3r-30" value="选课管理" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="60" y="330" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0wieGyqzAuZTQ68qBL3r-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0wieGyqzAuZTQ68qBL3r-30" edge="1">
