@@ -63,6 +63,12 @@
         <mxCell id="Mrzkoh50BcjUxOWhjWXM-21" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="510" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Mrzkoh50BcjUxOWhjWXM-23" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
