@@ -25,8 +25,8 @@
         <mxCell id="Mrzkoh50BcjUxOWhjWXM-6" value="课程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="210" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mrzkoh50BcjUxOWhjWXM-8" value="教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="70" width="100" height="40" as="geometry" />
+        <mxCell id="Mrzkoh50BcjUxOWhjWXM-8" value="班级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="60" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
