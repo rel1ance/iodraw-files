@@ -153,6 +153,11 @@
             <mxPoint x="-110" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Mrzkoh50BcjUxOWhjWXM-50" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mrzkoh50BcjUxOWhjWXM-46">
+          <mxGeometry x="-0.1121" y="-12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Mrzkoh50BcjUxOWhjWXM-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mrzkoh50BcjUxOWhjWXM-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-200" y="480" as="sourcePoint" />
@@ -161,6 +166,9 @@
         </mxCell>
         <mxCell id="Mrzkoh50BcjUxOWhjWXM-48" value="编辑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="310" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Mrzkoh50BcjUxOWhjWXM-49" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-315" y="348" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
